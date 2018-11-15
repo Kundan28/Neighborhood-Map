@@ -1,0 +1,103 @@
+/*css for body tag*/
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#content {
+  transition: margin-left .5s;
+}
+
+/*css for map*/
+#map {
+  position: absolute;
+  height: 94%;
+  width: 100%;
+  bottom: 0;
+  overflow: auto;
+}
+
+/*css for hamburger icon*/
+.hamburger {
+  position: absolute;
+  height: 6%;
+  width: 100%;
+  font-size: 28px;
+  background-color: #16262F;
+  color: #02B3E4;
+  cursor: pointer;
+  overflow: auto;
+  padding-left: 5px;
+}
+
+/*css for sidebar*/
+.sidebar {
+  background-color: #2E3D49;
+  overflow-x: hidden;
+  z-index: 1;
+  height: 100%;
+  position: fixed;
+  padding-top: 50px;
+  transition: 0.5s;
+}
+
+/*css for close button on sidebar*/
+.sidebar .close {
+  position: absolute;
+  top: 0;
+  right: 30px;
+  font-size: 30px;
+  margin-left: 60px;
+}
+
+/*css for search area*/
+.search {
+  border: 1px solid #02B3E4;
+  border-radius: 2px;
+  font-size: 0.8em;
+  background-color: #fff;
+  padding: 5px;
+  margin-left: 6px;
+}
+
+/*css for filter button*/
+.filter {
+  display: inline-block;
+  font-size: 12px;
+  background-color: #02B3E4; 
+  color: white; 
+  cursor: pointer;
+  border: 2px solid #02B3E4;
+  border-radius: 4px;
+  text-align: center;
+  margin: 4px 6px;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+  padding: 5px;
+}
+
+/*css for filter button on hover*/
+.filter:hover {
+  background-color: #25313B;
+  color: #02B3E4;
+}
+
+/*css for sidebar anchor field*/
+.sidebar a {
+  font-size: 16px;
+  display: block;
+  color: white;
+  padding: 8px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+/*css for sidebar anchor field on hover*/
+.sidebar a:hover {
+  background-color: #25313B;
+  color: #02B3E4;
+}

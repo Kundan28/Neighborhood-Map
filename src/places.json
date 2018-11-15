@@ -1,0 +1,72 @@
+[
+    {
+        "title": "B.M. Birla Science Museum",
+        "description": "Museum housing a science centre and dinosaurium, as well as a planetarium and an observatory.",
+        "latitude": 17.403354,
+        "longitude": 78.470734,
+        "formattedAddress": ""
+    },
+    {
+        "title": "T. Anjaiah Lumbini Park",
+        "description": "Popular park on a lake with gardens, musical fountain shows, a large Buddha statue & boat rides.",
+        "latitude": 17.409829,
+        "longitude": 78.473164,
+        "formattedAddress": ""
+    },
+    {
+        "title": "Snow World",
+        "description": "This family-friendly indoor park filled with artificial snow has slides, games & play areas.",
+        "latitude": 17.414556,
+        "longitude": 78.480943,
+        "formattedAddress": ""
+    },
+    {
+        "title": "Charminar",
+        "description": "Iconic 16th-century mosque with 4 grand arches, 48m tall minarets and views over the Laad Bazaar.",
+        "latitude": 17.361565,
+        "longitude": 78.474655,
+        "formattedAddress": ""
+    },
+    {
+        "title": "Golconda Fort",
+        "description": "Capital of a kingdom that flourished from the 14th to 16th century, with 87 semi-circular bastions.",
+        "latitude": 17.383322,
+        "longitude": 78.401058,
+        "formattedAddress": ""
+    },
+    {
+        "title": "Qutb Shahi Tombs",
+        "description": "Ornate, domed tombs from 18th century, built for Qutub Shahi dynasty rulers with landscaped gardens.",
+        "latitude": 17.395015,
+        "longitude": 78.396740,
+        "formattedAddress": ""
+    },
+    {
+        "title": "Rajiv Gandhi International Airport",
+        "description": "Airport named for the former Indian prime minister, opened in 2008 and set to further expand.",
+        "latitude": 17.240272,
+        "longitude": 78.429410,
+        "formattedAddress": ""
+    },
+    {
+        "title": "Nehru Zoological Park",
+        "description": "Spacious 380-acre zoo featuring tigers, rhinos, elephants & monkeys, plus daily safari rides.",
+        "latitude": 17.350682,
+        "longitude": 78.451315,
+        "formattedAddress": ""
+    },
+    {
+        "title": "Sanjeevaiah Park",
+        "description": "Bordered by a lake, this tree-filled 92-acre park features gardens & grassy areas for recreation.",
+        "latitude": 17.431898,
+        "longitude": 78.475312,
+        "formattedAddress": ""
+    },
+    {
+        "title": "Salar Jung Museum",
+        "description": "Former art collection of the Salar Jung family from around the world, now a museum.",
+        "latitude": 17.371034,
+        "longitude": 78.480556,
+        "formattedAddress": ""
+    }
+]
